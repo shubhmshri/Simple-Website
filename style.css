@@ -1,0 +1,19 @@
+:root{
+    --bg-color: white;
+    --text-color:black;
+}
+
+.section-headeing{
+    background-color: #ececec;
+    padding: 10px 20px;
+    font-weight: 600;
+}
+
+
+.section-form{
+    padding: 10px;
+}
+
+.section-form label{
+    display: block;
+}
